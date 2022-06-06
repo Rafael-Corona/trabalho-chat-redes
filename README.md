@@ -52,7 +52,7 @@ Repita essas etapas em uma nova janela do terminal mais uma vez, pois o chat fun
 
 ### Instruções Para Usar o Chat:
 
-Com tudo funcionando, o chat está pronto para ser usado. Em qualquer um dos dois clientes digite uma mensagem em sua respectiva aba do terminal e aperte enter, após isso verifique a aba do outro cliente, a mensagem que você digitou aparecerá lá e vice-versa.
+Com tudo funcionando, o chat está pronto para ser usado. Em qualquer um dos dois clientes digite uma mensagem em sua respectiva aba do terminal e aperte enter, após isso verifique a aba do outro cliente, a mensagem digitada aparecerá lá e vice-versa.
 Para finalizar a aplicação, digite ``exit``
 
 ## Problemas encontrados  
