@@ -14,7 +14,7 @@ Trabalho de Redes de Computadores - ICMC - 1 semestre - 2022
 ## Grupo
  - Rafael Corona | Número USP: 4769989
  - Leonardo Gabriel Fusineli Silva |  Número USP: 11218841
- - Luccas Stroppa Saliba Barizon | Número USP: 
+ - Luccas Stroppa Saliba Barizon | Número USP: 11275022
 
 ## Requisitos
 - O projeto está sendo desenvolvido em sistema operacional Linux, portanto recomenda-se que seja executado em Linux.
